@@ -14,3 +14,8 @@ Note: Use of the data is governed by the [Open Data Licence](https://www.onemap.
  if the date is specified in the commit message.
 - This data dump contains information from MyTransport.sg static data, accessed 1 Dec 2017.
 
+| Operator 	| Description 	| Example 	|
+|----------	|-------------	|-----------------------------	|
+| $gt 	| > 	| {"salary": {"$gt": 10000}} 	|
+| $gte 	| >= 	| {"salary": {"$gte": 10000}} 	|
+|  	|  	|  	|
